@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ANasouf/fem-interactive-rating-component.git](https://github.com/ANasouf/fem-interactive-rating-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://anasouf.github.io/fem-interactive-rating-component](https://anasouf.github.io/fem-interactive-rating-component)
 
 ## Author
 
